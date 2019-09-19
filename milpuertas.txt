@@ -1,0 +1,59 @@
+Proyecto "www.milpuertasweb.com"
+Profesora: Eva Ferreira
+Alumno: Cesar acosta
+Archivo: Milpuertas.txt
+
+
+-Descripción del proyecto a realizar
+    La pagina tiene perfil comercial, esta destinada a visualizar productos y servicios de aberturas de hogar (puertas, ventanales, cerramiento de balcon, etc.)
+    
+Objetivo general del sitio web
+    Optimizar la informacion en la pre venta.
+
+Listado de objetivos específicos ordenados por jerarquía
+    -fotos y animaciones en el movimiento entre las diferentes opciones (utilizar sprite).
+    -incluir un chat interactivo de atencion.
+
+Mapa del sitio. Ejemplo: https://outliersacademy.com/wp-content/uploads/2019/01/website-sitemap-template.png
+
+index(home)
+    -logo
+    -animacion puertas
+    -chat pop up
+    -animacion con datos de confianza de personas con calificaciones de redes sociales
+    -ubicacion google maps
+servicios 
+    -mosuiteros
+    -puertas a medida
+puertas
+    -de interior
+        *placa(imagenes)
+        *rebatible(imagenes)
+    -de exterior
+        *madera(imagenes)
+        *chapa(imagenes)
+        *portones(imagenes)
+ventanas
+    -aluminio(imagenes)
+    -madera(imagenes)
+    -combinadas(imagenes)
+    -claraboyas(imagenes)
+    -techo inclinado
+        *giratorias(imagenes)
+        *panoramica(imagenes)
+        *antepecho y verticales(imagenes)
+        *balcon y terraza(imagenes)
+    -techo plano(imagenes)
+    -rejas(imagenes)
+Ambiente
+    -cocina(imagenes)
+    -Placards(imagenes)
+    -mamparas de baño(imagenes)
+Contacto
+    -detalles de contacto
+    -Mapa
+
+
+
+Wireframe básico de la home. Ejemplos: https://www.google.com/save/s/list/-Ndx7ssf3MwpTivy-wBknppKto61MA
+
